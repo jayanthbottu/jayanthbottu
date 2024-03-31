@@ -9,7 +9,7 @@
 
 ###
 
-<img align="center" height="150" src="https://imgs.search.brave.com/rQLXgbft_WBHDQaMjDypxT4BFGWcNeqw_awVEh-WxiM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvb25lLXB1/bmNoLW1hbi1zYWl0/YW1hLXJ1bm5pbmct/aWhqNjg3bGFpODN1/aWl5ZS5naWY.gif" alt="kisamaa!!" />
+<img align="right" height="150" src="https://i.pinimg.com/originals/fc/d4/97/fcd4977ee2e01c91ae0a60cd3cde280d.gif"  />
 
 ###
 
@@ -32,10 +32,10 @@
 <div align="left">
   <a href="https://www.instagram.com/jayanthbottu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=jb&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a><br>
+  </a>
   <a href="jayanthindia8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%20%20%20Gmail%20%20%20%20&logo=gmail&label=jb&color=white&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a><br>
+  </a>
   <a href="https://www.instagram.com/jayanthbottu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=jb&color=097969&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
