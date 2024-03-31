@@ -31,10 +31,10 @@
 <div align="left">
   <a href="https://www.instagram.com/jayanthbottu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=jb&color=FF5733&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  </a><br>
   <a href="jayanthindia8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=%20%20%20Gmail%20%20%20%20&logo=gmail&label=jb&color=white&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  </a><br>
   <a href="https://www.instagram.com/jayanthbottu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=jb&color=097969&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
