@@ -8,8 +8,7 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/fc/d4/97/fcd4977ee2e01c91ae0a60cd3cde280d.gif"  />
+<img align="right" height="150" src="https://github.com/jayanthbottu/dustbin/blob/main/tanj.gif"  />
 
 ###
 
