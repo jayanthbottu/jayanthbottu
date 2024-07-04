@@ -1,4 +1,4 @@
-<h2 align="left">Hello ! My name is Jayanth and I'm a Computer Science Student from Warangal.</h2>
+<h2 align="left">Hello ! My name is Jayanth and I'm just a Computer Science Student.</h2>
 
 ###
 
