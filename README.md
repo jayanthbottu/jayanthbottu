@@ -11,7 +11,7 @@
 
 I am a Computer Science student passionate about developing elegant solutions to complex problems. With a strong foundation in multiple programming languages and technologies, I strive to create efficient, scalable, and user-centered applications.
 
-<img align="right" width="300" src="https://github.com/jayanthbottu/dustbin/blob/main/tanj.gif" />
+<img align="right" width="200" src="https://github.com/jayanthbottu/dustbin/blob/main/tanj.gif" />
 
 ## Expertise
 
@@ -36,7 +36,6 @@ class JayanthBottu:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanthbottu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="170" alt="languages graph" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthbottu&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ## Technical Proficiency
