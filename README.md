@@ -8,11 +8,9 @@
 <hr>
 
 ## About Me
-
+<p>
 I am a Computer Science student passionate about developing elegant solutions to complex problems. With a strong foundation in multiple programming languages and technologies, I strive to create efficient, scalable, and user-centered applications.
-
-<img align="right" width="200" src="https://github.com/jayanthbottu/dustbin/blob/main/tanj.gif" />
-
+</p>
 ## Expertise
 
 ```python
