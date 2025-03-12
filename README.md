@@ -19,7 +19,7 @@ class JayanthBottu:
         self.name = "Jayanth Bottu"
         self.role = "Computer Science Student"
         self.languages = ["Python", "C#", "Java", "C", "SQL"]
-        self.environment = "Linux"
+        self.environment = ["Windows","Linux"]
         self.interests = ["Software Development", 
                           "Data Structures",
                           "Algorithms",
