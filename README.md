@@ -2,8 +2,6 @@
   <h1>JAYANTH BOTTU</h1>
   <p><i>Building tomorrow's solutions with today's code</i></p>
   
-  <br>
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
 </div>
 
@@ -38,7 +36,7 @@ class JayanthBottu:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanthbottu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="170" alt="languages graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=jayanthbottu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthbottu&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ## Technical Proficiency
@@ -52,19 +50,14 @@ class JayanthBottu:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-## Professional Timeline
+## Projects
 
-```mermaid
-gantt
-    title Career Development Path
-    dateFormat  YYYY-MM
-    section Education
-    Computer Science Degree   :2020-08, 2024-05
-    section Skills
-    Programming Languages     :2020-08, 2024-05
-    Database Systems          :2021-01, 2024-05
-    Linux Environment         :2021-08, 2024-05
-```
+<div align="center">
+  <a href="https://github.com/jayanthbottu/repository-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthbottu&repo=dustbin&theme=github_dark&hide_border=true" />
+  </a>
+  <!-- Add additional project cards as needed -->
+</div>
 
 ## Connect With Me
 
@@ -84,9 +77,4 @@ gantt
 
 <div align="center">
   <img src="https://github.com/jayanthbottu/dustbin/blob/main/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthbottu&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 </div>
