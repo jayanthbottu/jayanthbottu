@@ -11,8 +11,8 @@
 <p>
 I am a Computer Science student passionate about developing elegant solutions to complex problems. With a strong foundation in multiple programming languages and technologies, I strive to create efficient, scalable, and user-centered applications.
 </p>
-## Expertise
 
+## Expertise
 ```python
 class JayanthBottu:
     def __init__(self):
