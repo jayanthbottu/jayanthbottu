@@ -1,12 +1,3 @@
-<div align="center">
-  <h1>JAYANTH BOTTU</h1>
-  <p><i>Building tomorrow's solutions with today's code</i></p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
-</div>
-
-<hr>
-
 ## About Me
 <p>
 I am a Computer Science student passionate about developing elegant solutions to complex problems. With a strong foundation in multiple programming languages and technologies, I strive to create efficient, scalable, and user-centered applications.
@@ -74,4 +65,12 @@ class JayanthBottu:
 
 <div align="center">
   <img src="https://github.com/jayanthbottu/dustbin/blob/main/snake.svg" alt="Snake animation" />
+</div>
+<hr>
+
+<div align="center">
+  <h1>JAYANTH BOTTU</h1>
+  <p><i>Building tomorrow's solutions with today's code</i></p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
 </div>
