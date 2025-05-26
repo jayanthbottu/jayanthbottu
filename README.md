@@ -41,12 +41,9 @@ class JayanthBottu:
 ## Projects
 
 <div align="center">
-  <a href="https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM">
-      ![Smart Lighting](https://github.com/user-attachments/assets/9669c1ad-9c39-4b59-95b9-9896964d4e07)
-
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jayanthbottu&repo=SMART-HOME-AUTOMATION-SYSTEM&theme=github_dark&hide_border=true" />
-  </a>
-  <!-- Add additional project cards as needed -->
+<a href="https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM">
+<img src="https://github.com/user-attachments/assets/9669c1ad-9c39-4b59-95b9-9896964d4e07">
+</a>
 </div>
 
 ## Connect With Me
