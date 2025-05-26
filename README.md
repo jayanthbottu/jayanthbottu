@@ -40,10 +40,10 @@ class JayanthBottu:
 
 ## Projects
 
-<div align="center">
-<a href="https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM">
+<div>
 <b>SMART HOME AUTOMATION</b>
-<img src="https://github.com/user-attachments/assets/9669c1ad-9c39-4b59-95b9-9896964d4e07" width=100px>
+<a href="https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM"
+<img src="https://github.com/user-attachments/assets/9669c1ad-9c39-4b59-95b9-9896964d4e07" width=300px>
 
 </a>
 </div>
