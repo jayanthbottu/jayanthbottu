@@ -41,11 +41,11 @@ class JayanthBottu:
 ## Projects
 
 <div>
-<b>SMART HOME AUTOMATION</b>
 <a href="https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM"
-<img src="https://github.com/user-attachments/assets/9669c1ad-9c39-4b59-95b9-9896964d4e07" width=300px>
-
+<img src="https://cdn-icons-png.flaticon.com/512/3541/3541801.png" width=300px>
 </a>
+<b>SMART HOME AUTOMATION</b>
+
 </div>
 
 ## Connect With Me
