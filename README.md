@@ -87,7 +87,9 @@ class QuantumDeveloper:
 <p><i>Building tomorrow's solutions with today's code</i></p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
-</div>
+</div><div align="center">
+
+<!-- EPIC HEADER WITH GLITCH EFFECTS -->
 ```
      ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗    ██████╗  ██████╗ ████████╗████████╗██╗   ██╗
      ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔═══██╗╚══██╔══╝╚══██╔══╝██║   ██║
