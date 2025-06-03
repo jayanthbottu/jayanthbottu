@@ -83,7 +83,11 @@ class QuantumDeveloper:
   <img src="https://github.com/jayanthbottu/dustbin/blob/main/snake.svg" alt="Snake animation" />
 </div>
 <hr>
-<!-- EPIC HEADER WITH GLITCH EFFECTS -->
+<div align="center">
+<p><i>Building tomorrow's solutions with today's code</i></p>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
+</div>
 ```
      ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗    ██████╗  ██████╗ ████████╗████████╗██╗   ██╗
      ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔═══██╗╚══██╔══╝╚══██╔══╝██║   ██║
@@ -92,9 +96,3 @@ class QuantumDeveloper:
 ██║████║██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   ██║  ██║    ██████╔╝╚██████╔╝   ██║      ██║   ╚██████╔╝
 ╚═════════╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ 
 ```
-
-<div align="center">
-<p><i>Building tomorrow's solutions with today's code</i></p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
-</div>
