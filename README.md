@@ -83,7 +83,7 @@ class QuantumDeveloper:
   <img src="https://github.com/jayanthbottu/dustbin/blob/main/snake.svg" alt="Snake animation" />
 </div>
 <hr>
-
+<div align="center">
 ```
      ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗    ██████╗  ██████╗ ████████╗████████╗██╗   ██╗
      ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔═══██╗╚══██╔══╝╚══██╔══╝██║   ██║
@@ -92,7 +92,7 @@ class QuantumDeveloper:
 ██║████║██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   ██║  ██║    ██████╔╝╚██████╔╝   ██║      ██║   ╚██████╔╝
 ╚═════════╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ 
 ```
-
+</div>
 <div align="center">
 <p><i>Building tomorrow's solutions with today's code</i></p>
   
