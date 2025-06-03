@@ -1,16 +1,4 @@
 ## About Me
-<div align="center">
-
-<!-- EPIC HEADER WITH GLITCH EFFECTS -->
-```
-     ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗    ██████╗  ██████╗ ████████╗████████╗██╗   ██╗
-     ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔═══██╗╚══██╔══╝╚══██╔══╝██║   ██║
-     ██║███████║ ╚████╔╝ ███████║██╔██╗ ██║   ██║   ███████║    ██████╔╝██║   ██║   ██║      ██║   ██║   ██║
-     ██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║   ██║   ██╔══██║    ██╔══██╗██║   ██║   ██║      ██║   ██║   ██║
-██║████║██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   ██║  ██║    ██████╔╝╚██████╔╝   ██║      ██║   ╚██████╔╝
-╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ 
-```
-</div>
 <p>
 I am a Computer Science student passionate about developing elegant solutions to complex problems. With a strong foundation in multiple programming languages and technologies, I strive to create efficient, scalable, and user-centered applications.
 </p>
@@ -97,8 +85,14 @@ class QuantumDeveloper:
 <hr>
 
 <div align="center">
-  <h1>JAYANTH BOTTU</h1>
-  <p><i>Building tomorrow's solutions with today's code</i></p>
+<div align="center">
+     ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗    ██████╗  ██████╗ ████████╗████████╗██╗   ██╗
+     ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔═══██╗╚══██╔══╝╚══██╔══╝██║   ██║
+     ██║███████║ ╚████╔╝ ███████║██╔██╗ ██║   ██║   ███████║    ██████╔╝██║   ██║   ██║      ██║   ██║   ██║
+     ██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║   ██║   ██╔══██║    ██╔══██╗██║   ██║   ██║      ██║   ██║   ██║
+██║████║██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   ██║  ██║    ██████╔╝╚██████╔╝   ██║      ██║   ╚██████╔╝
+╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ 
+</div>  <p><i>Building tomorrow's solutions with today's code</i></p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
 </div>
