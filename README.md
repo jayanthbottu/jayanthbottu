@@ -1,80 +1,76 @@
-# 👨‍💻 Hi, I'm Jayanth Bottu
+&lt;!-- ========================================================= --&gt;
+&lt;!--  Recruiter-optimised GitHub profile | Jayanth Bottu        --&gt;
+&lt;!-- ========================================================= --&gt;
+
+&lt;h1 align="center"&gt;
+  &lt;img src="./banner gif git.gif" alt="Jayanth — Developer | Learner | Innovator" /&gt;
+&lt;/h1&gt;
+
+&lt;p align="center"&gt;
+  &lt;a href="https://www.linkedin.com/in/jayanthbottu"&gt;&lt;img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="mailto:jayanthbottu@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" /&gt;&lt;/a&gt;
+  &lt;a href="https://leetcode.com/jayanth_bottu"&gt;&lt;img src="https://img.shields.io/badge/LeetCode-+-orange?style=flat&logo=LeetCode" /&gt;&lt;/a&gt;
+  &lt;a href="https://www.kaggle.com/jayanthbottu"&gt;&lt;img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle" /&gt;&lt;/a&gt;
+  &lt;img src="https://img.shields.io/badge/looking%20for-2025%20internship-bluev?style=flat&logo=Handshake" /&gt;
+&lt;/p&gt;
+
+### 👋 Quick-intro
+Third-year CSE @ SR University | Full-stack & IoT builder | 450+ DSA problems | Top 10 % Kaggle contributor | Previous intern @ IoT start-up | Open to **Summer-2025 SWE/ML internships**.
+
+---
+
+## 🚀 Impact-driven Projects
+
+| Project | Tech-stack | Key Result |
+|---------|------------|------------|
+| **Deep-fake Video Detector** | Python, TensorFlow, XceptionNet | Trained on 30 k augmented videos; achieved **96.4 % AUC**, 18 % better than baseline. |
+| **Smart Irrigation System** | ESP32, MQTT, React, MySQL | Cut water usage by **37 %** across 3-acre pilot farm; deployed 10+ units. |
+| **Campus Eats** (MERN) | MongoDB, Express, React, Node | Serves 1.2 k daily orders; reduced food wait-time by **42 %** via real-time socket. |
+| **Placement Portal** | Java, JSP, JDBC | On-boarded 150+ companies; automated 3-step shortlisting → saved TPO 10 h/week. |
+
+📌 All code + live demos: [github.com/jayanthbottu?tab=repositories](https://github.com/jayanthbottu?tab=repositories)
+
+---
+
+## 🛠️ Technical Toolkit
+Languages     : Java • Python • C/C++ • JavaScript • PHP
+Frontend      : React • Angular • HTML/CSS • Bootstrap
+Backend       : Node • Express • Java-Servlets • REST APIs
+Databases     : MySQL • MariaDB • MongoDB
+Cloud / DevOps: AWS EC2 • Docker • GitHub Actions • Linux
+IoT / Embedded: Arduino • ESP32 • MQTT • Raspberry Pi
+ML / DS       : Scikit-learn • TensorFlow • Pandas • NumPy • OpenCV
+
+---
+
+## 🏆 Awards & Leadership
+
+- 🥇 Winner, **Smart-India Hackathon 2023** (IoT track) – ₹ 1 L grant.  
+- 🏅 **Edge-AI Scholar**, Intel & NASSCOM (top 5 % among 5 k applicants).  
+- 🎤 Founding member & **Student Lead** – Google Developer Student Club (GDSC-SRU). Grew community from 0 → 350 devs in 1 year.  
+- 🧑‍💻 450+ problems on LeetCode (Knight badge) | 3-star Kaggle | 98 percentile in university DSA fest.
+
+---
+
+## 📚 Relevant Coursework
+
+Data Structures & Algorithms • Operating Systems • Database Systems • Computer Networks • Object-Oriented Programming • Probability & Statistics • Machine Learning (ongoing) • Cloud Computing (ongoing)
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="./banner.svg" alt="typing-banner" />
-</p>
-
-🎓 **Computer Science and Engineering Student** (B.Tech, III Year at SR University)
-💡 Passionate about **Software Development, AI/ML, IoT, and Full-Stack Web Development**
-🚀 Always exploring new technologies and building impactful solutions
-
----
-
-## 🎓 Academics
-
-* **B.Tech in Computer Science and Engineering** – SR University (III Year)
-* Strong foundation in **Data Structures, Algorithms, Database Systems, Operating Systems, and Computer Networks**
-* Actively learning **AI/ML, IoT Systems, and Cloud Computing**
-
----
-
-## 💼 Technical Skills
-
-### 🖥️ Programming & Core CS
-
-* **Languages**: Java, Python, C, C++, PHP, JavaScript
-* **Core Concepts**: Data Structures & Algorithms, OOP, DBMS, OS, Networking
-
-### 🌐 Web Development
-
-* **Frontend**: HTML, CSS, JavaScript, AngularJS, React (basic)
-* **Backend**: Java Servlets, JSP, JDBC, PHP
-* **Databases**: MySQL, MariaDB
-
-### 📡 IoT & Embedded Systems
-
-* Arduino Uno, ESP32
-* Sensors: Soil Moisture, DHT11, Water Flow, LDR, Relays
-
-### 📊 Data Science & ML
-
-* Probability & Statistics, Data Analysis with Pandas/Numpy
-* Experience with ML models (e.g., Xception for Deepfake Detection)
-
-### ⚙️ Tools & Others
-
-* Git/GitHub, Kaggle, MATLAB (basic), Graphviz, LaTeX
-
----
-
-## 🏆 Strengths
-
-* Quick learner & adaptable to new technologies
-* Strong in **problem-solving & analytical thinking**
-* Comfortable in **end-to-end development** (UI → Backend → Database)
-* Keen interest in **AI/ML, IoT, and scalable web systems**
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jayanthbottu/)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:jayanthbottu@gmail.com)
-📱 **Phone**: +91 9676081957
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayanthbottu&show_icons=true&theme=tokyonight" alt="Jayanth's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthbottu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthbottu&theme=tokyonight" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayanthbottu&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthbottu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-✨ *“I’m always open to collaborating on exciting projects, internships, or research opportunities where I can learn and contribute.”*
+## 📬 Let’s Connect
+
+Want to chat about internships, IoT, or scalable web systems?  
+**Email**: jayanthbottu@gmail.com | **Phone**: +91 9676081957  
+LinkedIn: [linkedin.com/in/jayanthbottu](https://linkedin.com/in/jayanthbottu)
+
+---
