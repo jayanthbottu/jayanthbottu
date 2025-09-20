@@ -1,9 +1,4 @@
-# Jayanth Bottu
-
-<div align="center">
-  <img src="./banner gif git.svg" alt="Jayanth Bottu - Software Developer" width="800"/>
-</div>
-
+# **JAYANTH BOTTU**
 <p align="center">
   <a href="https://www.linkedin.com/in/jayanthbottu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,87 +6,138 @@
   <a href="mailto:talktojayanth@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/jayanth_bottu">
+  <a href="https://leetcode.com/jayanthbottu">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.kaggle.com/jayanthbottu">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://credly.com/users/jayanthbottu">
+    <img src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Seeking%202026%20Internships-green?style=for-the-badge" alt="Internship Status"/>
+  <img src="https://img.shields.io/badge/Status-Seeking%202026%20Full--Time%20Opportunities-green?style=for-the-badge" alt="Job Status"/>
 </p>
 
 ## About Me
 
-Third-year Computer Science Engineering student at SR University with a passion for building scalable solutions and solving complex problems. I specialize in full-stack development, IoT systems, and machine learning, with hands-on experience across 450+ data structure and algorithm problems and contributions to real-world applications.
+Final-year Computer Science Engineering student at SR University with a stellar academic record (CGPA: 9.45/10) and comprehensive expertise in software development, machine learning, and system design. With a strong foundation from my diploma in Computer Engineering (CGPA: 9.19/10), I bring both theoretical knowledge and practical implementation skills to complex technical challenges.
 
-**Currently seeking Summer 2026 Software Engineering and Machine Learning internships.**
+**Currently seeking full-time Software Engineering and Machine Learning opportunities for 2025.**
 
-## Featured Projects
+## 🎓 Academic Excellence
 
-### 🎬 Deep-fake Video Detector
-**Technologies:** Python, TensorFlow, XceptionNet  
-**Impact:** Achieved 96.4% AUC on 30,000 augmented video dataset, representing an 18% improvement over baseline models.
+**Bachelor of Technology - Computer Science Engineering**  
+*SR University, Warangal* | *Aug 2023 – June 2026*  
+**CGPA:** 9.45/10
+
+**Diploma in Computer Engineering**  
+*Government Polytechnic College, Warangal* | *Nov 2020 – May 2023*  
+**CGPA:** 9.19/10
+
+**Relevant Coursework:** Data Structures & Algorithms, Computer Networks, Database Management Systems, Artificial Intelligence & Machine Learning, Deep Learning Fundamentals, Probability & Statistics, Operating Systems
+
+## 🚀 Featured Projects
+
+### 🏠 Smart Home Automation System
+**Repository:** [github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM](https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM)  
+**Technologies:** Java Servlets, AngularJS, MariaDB, Apache Tomcat  
+**Key Features:**
+- Developed comprehensive web-based smart home control system
+- Implemented real-time device control with responsive dashboard interface
+- Deployed scalable backend services on Apache Tomcat for robust hosting
+- Enabled dynamic user interactions through modern web technologies
+
+### 👤 Face Recognition Based Attendance Management System
+**Repository:** [github.com/jayanthbottu/AIML-PROJECT](https://github.com/jayanthbottu/AIML-PROJECT)  
+**Technologies:** TensorFlow, OpenCV, Python, Convolutional Neural Networks  
+**Key Features:**
+- Built deep learning-powered face recognition system for automated attendance
+- Trained custom CNN models achieving high-accuracy real-time face detection
+- Streamlined manual attendance processes through intelligent automation
+- Integrated computer vision techniques for robust facial feature extraction
 
 ### 💧 Smart Irrigation System
 **Technologies:** ESP32, MQTT, React, MySQL  
-**Impact:** Reduced water consumption by 37% across a 3-acre pilot farm with 10+ deployed units in production.
+**Impact:** Reduced water consumption by 37% across 3-acre pilot farm with 10+ deployed units
 
-### 🍽️ Campus Eats (MERN Stack)
-**Technologies:** MongoDB, Express.js, React, Node.js  
-**Impact:** Processes 1,200 daily orders with 42% reduction in food wait times through real-time WebSocket implementation.
+📂 **Complete Portfolio:** [github.com/jayanthbottu](https://jayanthbottu.github.io/)
 
-### 🎓 Placement Portal
-**Technologies:** Java, JSP, JDBC  
-**Impact:** Onboarded 150+ companies with automated 3-step shortlisting process, saving TPO staff 10 hours weekly.
+## 💻 Technical Proficiencies
 
-📂 **Portfolio:** [github.com/jayanthbottu](https://github.com/jayanthbottu?tab=repositories)
+**Programming Languages**
+```
+Python • C++ • Java • JavaScript • C • SQL • C#
+```
 
-## Technical Skills
+**AI/ML & Data Science**
+```
+TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • NLTK • CNN • OpenCV
+```
 
-**Programming Languages:** Java, Python, C/C++, JavaScript, PHP  
-**Frontend Development:** React.js, Angular, HTML5, CSS3, Bootstrap  
-**Backend Development:** Node.js, Express.js, Java Servlets, RESTful APIs  
-**Databases:** MySQL, MariaDB, MongoDB  
-**Cloud & DevOps:** AWS EC2, Docker, GitHub Actions, Linux  
-**IoT & Embedded Systems:** Arduino, ESP32, MQTT Protocol, Raspberry Pi  
-**Machine Learning & Data Science:** Scikit-learn, TensorFlow, Pandas, NumPy, OpenCV
+**Web Development**
+```
+React.js • AngularJS • Node.js • Java Servlets • HTML5/CSS3
+```
 
-## Achievements & Recognition
+**Databases**
+```
+MariaDB • MySQL • MongoDB • OracleDB
+```
 
-- **🥇 Smart India Hackathon 2023 Winner** - IoT Track (₹100,000 grant)
-- **🎯 Intel & NASSCOM Edge-AI Scholar** - Top 5% among 5,000 applicants
-- **👥 GDSC-SRU Founding Member & Student Lead** - Grew developer community from 0 to 350 members
-- **💻 Competitive Programming:** 450+ LeetCode problems (Knight badge), 3-star Kaggle contributor
-- **🏆 Academic Excellence:** 98th percentile in university Data Structures & Algorithms competition
+**Cloud & DevOps**
+```
+AWS • Google Cloud Platform • GitHub Actions • Apache Tomcat
+```
 
-## Academic Background
+**Systems & Platforms**
+```
+Linux • Windows • IoT (ESP32, Arduino, MQTT) • Raspberry Pi
+```
 
-**Relevant Coursework:** Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Object-Oriented Programming, Probability & Statistics, Machine Learning, Cloud Computing
+## 🏆 Achievements & Recognition
 
-## GitHub Statistics
+- **💻 Competitive Programming:** 100+ LeetCode problems
+- **🏆 Academic Excellence:** Consistent high performer with 9.45 CGPA in BTech and 9.19 in Diploma
+
+## 📜 Professional Certifications
+
+- **Theory of Computation** - National Programme on Technology Enhanced Learning
+- **Introduction to Software Engineering (with Honors)** - IBM (Coursera)
+- **Data Structures and Algorithms** - UC San Diego (Coursera)
+- **Introduction to Operating Systems** - Codio (Coursera)
+- **Introduction to Networking and Storage (with Honors)** - IBM (Coursera)
+
+*View all certifications on [Credly](https://credly.com/users/jayanthbottu)*
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayanthbottu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthbottu&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayanthbottu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthbottu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
-## Professional Experience
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthbottu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-**IoT Development Intern** - Previous internship experience at IoT startup, contributing to embedded systems and sensor integration projects.
+## 📞 Contact Information
 
-## Contact Information
+I'm actively seeking full-time opportunities where I can contribute to innovative projects and continue growing as a software engineer. Let's discuss how my technical expertise and academic excellence can add value to your team.
 
-I'm always interested in discussing internship opportunities, collaborative projects, and innovative solutions in software engineering, IoT, and machine learning.
+<div align="center">
 
-**📧 Email:** [talktojayanth@gmail.com](mailto:talktojayanth@gmail.com)  
+**📧 Email:** [talktojayanth@gmail.com](mailto:jayanthbottu@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/jayanthbottu](https://linkedin.com/in/jayanthbottu)  
-**🌐 GitHub:** [github.com/jayanthbottu](https://github.com/jayanthbottu)
+**🌐 GitHub:** [github.com/jayanthbottu](https://github.com/jayanthbottu)  
+**🏅 Certifications:** [credly.com/users/jayanthbottu](https://credly.com/users/jayanthbottu)
+
+</div>
 
 ---
 
 <div align="center">
-  <i>Open to Summer 2026 Software Engineering and Machine Learning internship opportunities</i>
+  <i>🎯 Open to Full-Time Software Engineering & Machine Learning Opportunities | Class of 2026</i>
 </div>
