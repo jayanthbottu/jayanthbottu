@@ -1,9 +1,5 @@
-&lt;!-- ========================================================= --&gt;
-&lt;!--  Recruiter-optimised GitHub profile | Jayanth Bottu        --&gt;
-&lt;!-- ========================================================= --&gt;
-
 &lt;h1 align="center"&gt;
-  &lt;img src="./banner gif git.gif" alt="Jayanth — Developer | Learner | Innovator" /&gt;
+  &lt;img src="./banner gif git.svg" alt="Jayanth — Developer | Learner | Innovator" /&gt;
 &lt;/h1&gt;
 
 &lt;p align="center"&gt;
