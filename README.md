@@ -17,9 +17,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Seeking%202026%20Full--Time%20Opportunities-green?style=for-the-badge" alt="Job Status"/>
-</p>
+---
 
 ## About Me
 
