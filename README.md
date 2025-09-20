@@ -1,4 +1,4 @@
-            # **JAYANTH BOTTU**
+<h1 align="center" style="font-family:Roboto,sans-serif;font-weight:900">JAYANTH BOTTU</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/jayanthbottu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
