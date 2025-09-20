@@ -25,7 +25,7 @@
 
 Final-year Computer Science Engineering student at SR University with a stellar academic record (CGPA: 9.45/10) and comprehensive expertise in software development, machine learning, and system design. With a strong foundation from my diploma in Computer Engineering (CGPA: 9.19/10), I bring both theoretical knowledge and practical implementation skills to complex technical challenges.
 
-**Currently seeking full-time Software Engineering and Machine Learning opportunities for 2025.**
+**Currently seeking full-time Software Engineering and Machine Learning opportunities for 2026.**
 
 ## 🎓 Academic Excellence
 
