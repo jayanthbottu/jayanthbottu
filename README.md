@@ -1,4 +1,5 @@
-<h1 align="center" style="font-family:Roboto,sans-serif;font-weight:900">JAYANTH BOTTU</h1>
+# Hey there! 👋 I'm Jayanth Bottu
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jayanthbottu">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -17,88 +18,89 @@
   </a>
 </p>
 
----
+## 🚀 About Me
 
-## About Me
+Final-year **Computer Science Engineering** student at SR University with a stellar **9.45/10 CGPA** and comprehensive expertise in software development, machine learning, and system design. I'm passionate about building scalable solutions and leveraging AI/ML to solve real-world problems.
 
-Final-year Computer Science Engineering student at SR University with a stellar academic record (CGPA: 9.45/10) and comprehensive expertise in software development, machine learning, and system design. With a strong foundation from my diploma in Computer Engineering (CGPA: 9.19/10), I bring both theoretical knowledge and practical implementation skills to complex technical challenges.
+🎯 **Currently seeking full-time Software Engineering and Machine Learning opportunities for 2026.**
 
-**Currently seeking full-time Software Engineering and Machine Learning opportunities for 2026.**
+## 🔥 Flagship Projects
+| Project | Stack | Result |
+|---------|-------|--------|
+| **Smart Home Automation System** | Java Servlets, AngularJS, MariaDB, Tomcat | Full-scale web control system with real-time dashboard |
+| **Face Recognition Attendance** | TensorFlow, CNN, OpenCV, Python | High-accuracy real-time detection with automated processing |
+| **Smart Irrigation System** | ESP32, MQTT, React, MySQL | 37% water saved on 3-acre pilot, 10+ units deployed |
+
+### 🏠 Smart Home Automation System
+[🔗 Repository](https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM)
+
+A comprehensive web-based smart home control system that revolutionizes home automation through intuitive interface design and robust backend architecture.
+
+**Key Features:**
+- Real-time device control with responsive dashboard interface
+- Scalable backend services deployed on Apache Tomcat
+- Dynamic user interactions through modern web technologies
+- Comprehensive device management and monitoring
+
+**Tech Stack:** `Java Servlets` `AngularJS` `MariaDB` `Apache Tomcat`
+
+### 👤 Face Recognition Based Attendance Management System  
+[🔗 Repository](https://github.com/jayanthbottu/AIML-PROJECT)
+
+An intelligent attendance management system powered by deep learning that automates the traditional attendance process through advanced face recognition technology.
+
+**Key Features:**
+- Custom CNN models for high-accuracy real-time face detection
+- Automated attendance tracking eliminating manual processes  
+- Advanced computer vision techniques for robust facial feature extraction
+- Streamlined workflow integration for educational institutions
+
+**Tech Stack:** `TensorFlow` `OpenCV` `Python` `Convolutional Neural Networks`
+
+### 💧 Smart Irrigation System
+
+An IoT-powered precision agriculture solution that optimizes water usage through intelligent monitoring and automated irrigation control.
+
+**Key Features:**
+- **37% water consumption reduction** across 3-acre pilot farm
+- **10+ deployed units** with real-time monitoring
+- MQTT-based communication for reliable data transmission
+- Web-based dashboard for remote monitoring and control
+
+**Tech Stack:** `ESP32` `MQTT` `React` `MySQL`
+
+## 🛠️ Tech Arsenal
+
+```javascript
+const jayanth = {
+    languages: ["Python", "C++", "Java", "JavaScript", "C", "SQL", "C#"],
+    aiml: ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas", "NumPy", "NLTK", "CNN", "OpenCV"],
+    frontend: ["React.js", "AngularJS", "HTML5", "CSS3"],
+    backend: ["Node.js", "Java Servlets"],
+    databases: ["MariaDB", "MySQL", "MongoDB", "OracleDB"],
+    cloud: ["AWS", "Google Cloud Platform"],
+    systems: ["Linux", "Windows"]
+};
+```
 
 ## 🎓 Academic Excellence
 
-**Bachelor of Technology - Computer Science Engineering**  
-*SR University, Warangal* | *Aug 2023 – June 2026*  
+**🏛️ Bachelor of Technology - Computer Science Engineering**  
+*SR University, Warangal* | *2023 – 2026*  
 **CGPA:** 9.45/10
 
-**Diploma in Computer Engineering**  
-*Government Polytechnic College, Warangal* | *Nov 2020 – May 2023*  
+**🎓 Diploma in Computer Engineering**  
+*Government Polytechnic College, Warangal* | *2020 – 2023*  
 **CGPA:** 9.19/10
 
-**Relevant Coursework:** Data Structures & Algorithms, Computer Networks, Database Management Systems, Artificial Intelligence & Machine Learning, Deep Learning Fundamentals, Probability & Statistics, Operating Systems
+**📚 Key Coursework:** Data Structures & Algorithms, Computer Networks, Database Management Systems, Artificial Intelligence & Machine Learning, Deep Learning Fundamentals, Probability & Statistics, Operating Systems
 
-## 🚀 Featured Projects
+## 🏆 Achievements
 
-### 🏠 Smart Home Automation System
-**Repository:** [github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM](https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM)  
-**Technologies:** Java Servlets, AngularJS, MariaDB, Apache Tomcat  
-**Key Features:**
-- Developed comprehensive web-based smart home control system
-- Implemented real-time device control with responsive dashboard interface
-- Deployed scalable backend services on Apache Tomcat for robust hosting
-- Enabled dynamic user interactions through modern web technologies
-
-### 👤 Face Recognition Based Attendance Management System
-**Repository:** [github.com/jayanthbottu/AIML-PROJECT](https://github.com/jayanthbottu/AIML-PROJECT)  
-**Technologies:** TensorFlow, OpenCV, Python, Convolutional Neural Networks  
-**Key Features:**
-- Built deep learning-powered face recognition system for automated attendance
-- Trained custom CNN models achieving high-accuracy real-time face detection
-- Streamlined manual attendance processes through intelligent automation
-- Integrated computer vision techniques for robust facial feature extraction
-
-### 💧 Smart Irrigation System
-**Technologies:** ESP32, MQTT, React, MySQL  
-**Impact:** Reduced water consumption by 37% across 3-acre pilot farm with 10+ deployed units
-
-📂 **Complete Portfolio:** [github.com/jayanthbottu](https://jayanthbottu.github.io/)
-
-## 💻 Technical Proficiencies
-
-**Programming Languages**
-```
-Python • C++ • Java • JavaScript • C • SQL • C#
-```
-
-**AI/ML & Data Science**
-```
-TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • NLTK • CNN • OpenCV
-```
-
-**Web Development**
-```
-React.js • AngularJS • Node.js • Java Servlets • HTML5/CSS3
-```
-
-**Databases**
-```
-MariaDB • MySQL • MongoDB • OracleDB
-```
-
-**Cloud & DevOps**
-```
-AWS • Google Cloud Platform • GitHub Actions • Apache Tomcat
-```
-
-**Systems & Platforms**
-```
-Linux • Windows • IoT (ESP32, Arduino, MQTT) • Raspberry Pi
-```
-
-## 🏆 Achievements & Recognition
-
-- **💻 Competitive Programming:** 100+ LeetCode problems
-- **🏆 Academic Excellence:** Consistent high performer with 9.45 CGPA in BTech and 9.19 in Diploma
+- 🧠 **100+ LeetCode Problems Solved** - Demonstrating strong algorithmic thinking
+- 📊 **Consistent Academic Excellence** - Top performer with 9.45+ CGPA
+- 🌱 **Real-world Impact** - Projects deployed with measurable results
+- 🚀 **Innovation Focus** - Building solutions that solve actual problems
 
 ## 📜 Professional Certifications
 
@@ -108,9 +110,9 @@ Linux • Windows • IoT (ESP32, Arduino, MQTT) • Raspberry Pi
 - **Introduction to Operating Systems** - Codio (Coursera)
 - **Introduction to Networking and Storage (with Honors)** - IBM (Coursera)
 
-*View all certifications on [Credly](https://credly.com/users/jayanthbottu)*
+*[View all certifications →](https://credly.com/users/jayanthbottu)*
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jayanthbottu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -121,16 +123,22 @@ Linux • Windows • IoT (ESP32, Arduino, MQTT) • Raspberry Pi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthbottu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-## 📞 Contact Information
+## 💡 What Drives Me
 
-I'm actively seeking full-time opportunities where I can contribute to innovative projects and continue growing as a software engineer. Let's discuss how my technical expertise and academic excellence can add value to your team.
+I'm passionate about creating technology that makes a difference. Whether it's building AI systems that automate tedious processes, developing IoT solutions that conserve resources, or crafting web applications that enhance user experiences – I believe in code that creates impact.
+
+Currently exploring opportunities where I can contribute to innovative projects while continuing to grow as a software engineer and ML practitioner.
+
+## 📬 Let's Connect!
+
+I'm always excited to discuss technology, collaborate on interesting projects, or explore new opportunities. Feel free to reach out!
 
 <div align="center">
 
-**📧 Email:** [talktojayanth@gmail.com](mailto:jayanthbottu@gmail.com)  
+**📧 Email:** [talktojayanth@gmail.com](mailto:talktojayanth@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/jayanthbottu](https://linkedin.com/in/jayanthbottu)  
-**🌐 GitHub:** [github.com/jayanthbottu](https://github.com/jayanthbottu)  
-**🏅 Certifications:** [credly.com/users/jayanthbottu](https://credly.com/users/jayanthbottu)
+**🌐 Portfolio:** [jayanthbottu.github.io](https://jayanthbottu.github.io/)  
+**🔗 LeetCode:** [leetcode.com/jayanthbottu](https://leetcode.com/jayanthbottu)
 
 </div>
 
@@ -138,4 +146,10 @@ I'm actively seeking full-time opportunities where I can contribute to innovativ
 
 <div align="center">
   <i>🎯 Open to Full-Time Software Engineering & Machine Learning Opportunities | Class of 2026</i>
+</div>
+
+<div align="center">
+  
+  ⭐ **Star this repo if you found it interesting!** ⭐
+  
 </div>
