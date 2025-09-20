@@ -1,99 +1,80 @@
-## About Me
-<p>
-I am a Computer Science student passionate about developing elegant solutions to complex problems. With a strong foundation in multiple programming languages and technologies, I strive to create efficient, scalable, and user-centered applications.
+# 👨‍💻 Hi, I'm Jayanth Bottu
+
+<p align="center">
+  <img src="./banner.svg" alt="typing-banner" />
 </p>
 
-## Expertise
-```python
-class QuantumDeveloper:
-    def __init__(self):
-        self.name = "🚀 JAYANTH BOTTU"
-        self.status = "🔥 ACTIVELY CODING"
-        self.brain = "🧠 ALGORITHM-POWERED"
-        self.coffee_dependency = "☕ CRITICAL_LEVEL"
-        self.superpower = "💫 TURNING IDEAS INTO REALITY"
-        
-        self.languages = {
-            "🐍 Python": "EXPERT_MODE",
-            "⚡ C#": "POWER_USER", 
-            "☕ Java": "NINJA_LEVEL",
-            "🔧 C": "HARDCORE",
-            "🗄️ SQL": "DATA_WIZARD"
-        }
-        
-        self.environments = ["🐧 Linux", "🪟 Windows", "☁️ Cloud"]
-        self.mindset = ["🎯 Solution-Oriented", "🚀 Innovation-Driven", "💡 Future-Focused"]
-    
-    def hack_the_matrix(self):
-        return "🌈 REALITY.exe has been upgraded! 🌈"
-    
-    def deploy_awesomeness(self):
-        while True:
-            create_epic_code()
-            solve_impossible_problems()
-            inspire_others()
-            level_up_skills()
-```
+🎓 **Computer Science and Engineering Student** (B.Tech, III Year at SR University)
+💡 Passionate about **Software Development, AI/ML, IoT, and Full-Stack Web Development**
+🚀 Always exploring new technologies and building impactful solutions
 
-## Analytics
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanthbottu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="170" alt="languages graph" />
-  
-</div>
+## 🎓 Academics
 
-## Technical Proficiency
+* **B.Tech in Computer Science and Engineering** – SR University (III Year)
+* Strong foundation in **Data Structures, Algorithms, Database Systems, Operating Systems, and Computer Networks**
+* Actively learning **AI/ML, IoT Systems, and Cloud Computing**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+---
 
-## Projects
+## 💼 Technical Skills
 
-<div>
-<a href="https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM">
-<img src="https://cdn-icons-png.flaticon.com/512/3541/3541801.png" width=100px>
-</a>
-<b>SMART HOME AUTOMATION</b>
-</div>
+### 🖥️ Programming & Core CS
 
-## Connect With Me
+* **Languages**: Java, Python, C, C++, PHP, JavaScript
+* **Core Concepts**: Data Structures & Algorithms, OOP, DBMS, OS, Networking
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jayanthbottu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:talktojayanth@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.instagram.com/jayanthbottu/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+### 🌐 Web Development
 
-<hr>
+* **Frontend**: HTML, CSS, JavaScript, AngularJS, React (basic)
+* **Backend**: Java Servlets, JSP, JDBC, PHP
+* **Databases**: MySQL, MariaDB
 
-<div align="center">
-  <img src="https://github.com/jayanthbottu/dustbin/blob/main/snake.svg" alt="Snake animation" />
-</div>
-<hr>
-<div align="center">
-<p><i>Building tomorrow's solutions with today's code</i></p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=jayanthbottu&style=flat-square&color=0e75b6&label=Profile%20Views)
-</div><div align="center">
+### 📡 IoT & Embedded Systems
 
-<!-- EPIC HEADER WITH GLITCH EFFECTS -->
-```
-     ██╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗    ██████╗  ██████╗ ████████╗████████╗██╗   ██╗
-     ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║╚══██╔══╝██║  ██║    ██╔══██╗██╔═══██╗╚══██╔══╝╚══██╔══╝██║   ██║
-     ██║███████║ ╚████╔╝ ███████║██╔██╗ ██║   ██║   ███████║    ██████╔╝██║   ██║   ██║      ██║   ██║   ██║
-     ██║██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║   ██║   ██╔══██║    ██╔══██╗██║   ██║   ██║      ██║   ██║   ██║
-██║████║██║  ██║   ██║   ██║  ██║██║ ╚████║   ██║   ██║  ██║    ██████╔╝╚██████╔╝   ██║      ██║   ╚██████╔╝
-╚═════════╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝    ╚═════╝  ╚═════╝    ╚═╝      ╚═╝    ╚═════╝ 
-```
+* Arduino Uno, ESP32
+* Sensors: Soil Moisture, DHT11, Water Flow, LDR, Relays
+
+### 📊 Data Science & ML
+
+* Probability & Statistics, Data Analysis with Pandas/Numpy
+* Experience with ML models (e.g., Xception for Deepfake Detection)
+
+### ⚙️ Tools & Others
+
+* Git/GitHub, Kaggle, MATLAB (basic), Graphviz, LaTeX
+
+---
+
+## 🏆 Strengths
+
+* Quick learner & adaptable to new technologies
+* Strong in **problem-solving & analytical thinking**
+* Comfortable in **end-to-end development** (UI → Backend → Database)
+* Keen interest in **AI/ML, IoT, and scalable web systems**
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jayanthbottu/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge\&logo=gmail)](mailto:jayanthbottu@gmail.com)
+📱 **Phone**: +91 9676081957
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayanthbottu&show_icons=true&theme=tokyonight" alt="Jayanth's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthbottu&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayanthbottu&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+✨ *“I’m always open to collaborating on exciting projects, internships, or research opportunities where I can learn and contribute.”*
