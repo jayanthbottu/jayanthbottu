@@ -35,17 +35,18 @@ Final-year **Computer Science Engineering** student at SR University with a stel
 | **IoT Smart Home Automation** | Java (Web) · IoT | Smart-home automation system with real-time device monitoring and unified dashboard control. |
 
 </div>
+
 ## 📌 Project Details
 
 ### 🔍 DFDA — Deepfake Detection
-**[📂 View Code](https://github.com/jayanthbottu/DFDA-Deepfake-Detection)** · **[🌐 Live Demo](https://jayanthbottu.github.io/)**
+**[📂 View Code](https://github.com/jayanthbottu/DFDA-Deepfake-Detection)** · **[🌐 Live Demo](https://huggingface.co/spaces/jayanthbottu/DFDA)**
 
 <div style='background:#0d1117; padding:18px; border-radius:10px; border:1px solid #222;'>
 A deep-learning ensemble system designed for media forensics. It detects manipulation in images, videos, and audio with high reliability.
 </div>
 
 ### 📊 Live Crypto Anomaly Detection
-**[📂 View Code](https://github.com/jayanthbottu/Live-Cryptocurrency-Anomaly-Detection)** · **[🌐 Live Demo](https://jayanthbottu.github.io/)**
+**[📂 View Code](https://github.com/jayanthbottu/Live-Cryptocurrency-Anomaly-Detection)** · **[🌐 Live Demo](http://live-cryptocurrency-anomaly-detection.up.railway.app/)**
 
 <div style='background:#0d1117; padding:18px; border-radius:10px; border:1px solid #222;'>
 A real-time cryptocurrency analytics dashboard that visualises price trends, identifies anomalies, and provides actionable market insights.
