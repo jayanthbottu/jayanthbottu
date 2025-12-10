@@ -23,51 +23,47 @@
 Final-year **Computer Science Engineering** student at SR University with a stellar **9.45/10 CGPA** and comprehensive expertise in software development, machine learning, and system design. I'm passionate about building scalable solutions and leveraging AI/ML to solve real-world problems.
 
 🎯 **Currently seeking full-time Software Engineering and Machine Learning opportunities for 2026.**
+## 🔥 Flagship & Featured Projects
 
-## 🔥 Flagship Projects
-| Project | Stack | Result |
-|---------|-------|--------|
-| **Smart Home Automation System** | Java Servlets, AngularJS, MariaDB, Tomcat | Full-scale web control system with real-time dashboard |
-| **Face Recognition Attendance** | TensorFlow, CNN, OpenCV, Python | High-accuracy real-time detection with automated processing |
-| **Smart Irrigation System** | ESP32, MQTT, React, MySQL | 37% water saved on 3-acre pilot, 10+ units deployed |
+<div style='background:#0d1117; padding:20px; border-radius:12px; border:1px solid #222;'>
 
-### 🏠 Smart Home Automation System
-[🔗 Repository](https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM)
+| Project | Stack | Summary |
+|--------|--------|---------|
+| **DFDA — Deepfake Detection** | Python · PyTorch · Streamlit | Detects manipulated media (images, videos, audio) using deep-learning ensemble models. |
+| **Live Crypto Anomaly Detection** | Python · Dash · Plotly | Real-time cryptocurrency analytics with anomaly detection and interactive visualisations. |
+| **Face Recognition & Attendance System** | Python · OpenCV · LBPH | Real-time face recognition attendance system eliminating manual processes. |
+| **IoT Smart Home Automation** | Java (Web) · IoT | Smart-home automation system with real-time device monitoring and unified dashboard control. |
 
-A comprehensive web-based smart home control system that revolutionizes home automation through intuitive interface design and robust backend architecture.
+</div>
+## 📌 Project Details
 
-**Key Features:**
-- Real-time device control with responsive dashboard interface
-- Scalable backend services deployed on Apache Tomcat
-- Dynamic user interactions through modern web technologies
-- Comprehensive device management and monitoring
+### 🔍 DFDA — Deepfake Detection
+**[📂 View Code](https://github.com/jayanthbottu/DFDA-Deepfake-Detection)** · **[🌐 Live Demo](https://jayanthbottu.github.io/)**
 
-**Tech Stack:** `Java Servlets` `AngularJS` `MariaDB` `Apache Tomcat`
+<div style='background:#0d1117; padding:18px; border-radius:10px; border:1px solid #222;'>
+A deep-learning ensemble system designed for media forensics. It detects manipulation in images, videos, and audio with high reliability.
+</div>
 
-### 👤 Face Recognition Based Attendance Management System  
-[🔗 Repository](https://github.com/jayanthbottu/AIML-PROJECT)
+### 📊 Live Crypto Anomaly Detection
+**[📂 View Code](https://github.com/jayanthbottu/Live-Cryptocurrency-Anomaly-Detection)** · **[🌐 Live Demo](https://jayanthbottu.github.io/)**
 
-An intelligent attendance management system powered by deep learning that automates the traditional attendance process through advanced face recognition technology.
+<div style='background:#0d1117; padding:18px; border-radius:10px; border:1px solid #222;'>
+A real-time cryptocurrency analytics dashboard that visualises price trends, identifies anomalies, and provides actionable market insights.
+</div>
 
-**Key Features:**
-- Custom CNN models for high-accuracy real-time face detection
-- Automated attendance tracking eliminating manual processes  
-- Advanced computer vision techniques for robust facial feature extraction
-- Streamlined workflow integration for educational institutions
+### 👤 Face Recognition & Attendance System
+**[📂 View Code](https://github.com/jayanthbottu/AIML-PROJECT)**
 
-**Tech Stack:** `TensorFlow` `OpenCV` `Python` `Convolutional Neural Networks`
+<div style='background:#0d1117; padding:18px; border-radius:10px; border:1px solid #222;'>
+An automated attendance platform using computer vision. Recognises faces in real-time and logs attendance accurately using LBPH.
+</div>
 
-### 💧 Smart Irrigation System
+### 🏠 IoT Smart Home Automation
+**[📂 View Code](https://github.com/jayanthbottu/SMART-HOME-AUTOMATION-SYSTEM)**
 
-An IoT-powered precision agriculture solution that optimizes water usage through intelligent monitoring and automated irrigation control.
-
-**Key Features:**
-- **37% water consumption reduction** across 3-acre pilot farm
-- **10+ deployed units** with real-time monitoring
-- MQTT-based communication for reliable data transmission
-- Web-based dashboard for remote monitoring and control
-
-**Tech Stack:** `ESP32` `MQTT` `React` `MySQL`
+<div style='background:#0d1117; padding:18px; border-radius:10px; border:1px solid #222;'>
+A complete IoT-powered smart-home ecosystem that enables real-time control of lighting, climate, and security devices through a unified dashboard.
+</div>
 
 ## 🛠️ Tech Arsenal
 
