@@ -84,7 +84,7 @@ const jayanth = {
 
 **🏛️ Bachelor of Technology - Computer Science Engineering**  
 *SR University, Warangal* | *2023 – 2026*  
-**CGPA:** 9.45/10
+**CGPA:** 9.23/10
 
 **🎓 Diploma in Computer Engineering**  
 *Government Polytechnic College, Warangal* | *2020 – 2023*  
@@ -95,7 +95,7 @@ const jayanth = {
 ## 🏆 Achievements
 
 - 🧠 **100+ LeetCode Problems Solved** - Demonstrating strong algorithmic thinking
-- 📊 **Consistent Academic Excellence** - Top performer with 9.45+ CGPA
+- 📊 **Consistent Academic Excellence** - Top performer with 9.3+ CGPA
 - 🌱 **Real-world Impact** - Projects deployed with measurable results
 - 🚀 **Innovation Focus** - Building solutions that solve actual problems
 
