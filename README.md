@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-Final-year **Computer Science Engineering** student at SR University with a stellar **9.45/10 CGPA** and comprehensive expertise in software development, machine learning, and system design. I'm passionate about building scalable solutions and leveraging AI/ML to solve real-world problems.
+Final-year **Computer Science Engineering** student at SR University with a stellar **9.23/10 CGPA** and comprehensive expertise in software development, machine learning, and system design. I'm passionate about building scalable solutions and leveraging AI/ML to solve real-world problems.
 
 🎯 **Currently seeking full-time Software Engineering and Machine Learning opportunities for 2026.**
 ## 🔥 Flagship & Featured Projects
