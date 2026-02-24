@@ -283,7 +283,7 @@ AND currently_procrastinating = true;
 | --------------- | ---------------------------------------------------- | ----------------------------------------------------- |
 | **LinkedIn**    | Professional me. Tie not included.                   | [Let's Connect](https://linkedin.com/in/jayanthbottu) |
 | **Email**       | Fastest response rate (except during cricket finals) | [Drop a Mail](mailto:jayanthbottu@gmail.com)          |
-| **X / Twitter** | Where I go to feel smart, then immediately humbled   | [Follow me](https://twitter.com/yourhandle)           |
+| **X / Twitter** | Where I go to feel smart, then immediately humbled   | [Follow me](https://twitter.com/jayanthbottu)           |
 | **GitHub**      | Digital proof I actually learned things              | [You are here 📍](https://github.com/jayanthbottu)    |
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20scrolling!%20You%20deserve%20a%20cookie%20🍪&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
